@@ -1,0 +1,14 @@
+.. _equipamiento-index:
+
+Equipamiento
+==============
+
+.. toctree::
+   :maxdepth: 2
+
+   servidores
+   netbooks
+   aps
+   switches
+   ups
+   

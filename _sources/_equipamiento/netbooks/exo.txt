@@ -1,0 +1,40 @@
+Exo
+===
+
+x352
+----
+
+**Características generales:**
+
+Disco
+    160gb
+Cpu
+    sdfgsdf
+Ram
+    1gb
+Sistemas
+    Windows xp, Linux pixart
+
+.. figure:: /images/exox352.gif
+   :width: 640px
+
+   Netbook Exo x352
+
+x355
+----
+
+**Características generales**
+
+foto
+
+n201
+----
+
+**Características generales**
+
+foto
+
+
+
+
+

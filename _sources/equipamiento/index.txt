@@ -1,0 +1,16 @@
+############
+Equipamiento
+############
+
+Conectar Igualdad
+=================
+
+.. toctree::
+   :maxdepth: 2
+
+   servidores
+   netbooks
+   aps
+   switches
+   ups
+   
