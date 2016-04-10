@@ -1,0 +1,31 @@
+Desbloquear netbook
+===================
+
+1. Encender
+
+2. Ingresar al server
+
+3. Generar código
+
+4. Ingresar el código en netbook
+
+5. vualá
+
+.. note:: You can use ``sphinx-autobuild`` to auto-reload your docs. Run ``sphinx-autobuild . _build_html`` instead.
+
+Problemas conocidos
+-------------------
+
+Código correcto no desbloquea
+.............................
+
+**Causas:**
+
+Desincronización de la marca de arranque entre el servidor y la netbook.
+
+**Soluciones**
+
+* Exportar la clave compartida (archivo .bin) en un pendrive, insertarlo en la netbook, encenderla y presionar ``ctrl+insert``.
+
+
+

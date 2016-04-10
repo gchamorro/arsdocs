@@ -1,0 +1,13 @@
+########
+Netbooks
+########
+
+Marcas y modelos
+================
+
+.. toctree::
+   :maxdepth: 2
+
+   netbooks/exo
+
+

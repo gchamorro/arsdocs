@@ -1,0 +1,14 @@
+.. toctree::
+   :maxdepth: 2
+
+Glosario
+========
+
+**Marca de arranque**
+
+Contador hexadecimal del chip tpm que aumenta con cada bloqueo.
+
+**Tpm**
+
+Chip integrado en las netbooks de conectar igualdad que realiza un bloqueo de hardware, y es administrado por software.
+
