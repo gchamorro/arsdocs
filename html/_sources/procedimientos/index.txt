@@ -1,9 +1,0 @@
-##############
-Procedimientos
-##############
-
-.. toctree::
-   :maxdepth: 2
-
-   desbloq
-   backups

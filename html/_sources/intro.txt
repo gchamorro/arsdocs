@@ -1,3 +1,0 @@
-Intro
-=====
-Documentación para el uso de los administradores de red de la dirección de Sistemas del Ministerio de Educación de la Provincia de Córdoba.
